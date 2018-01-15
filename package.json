@@ -1,6 +1,6 @@
 {
   "main": "./lib/asar.js",
-  "name": "asar",
+  "name": "@ryverapp/asar",
   "description": "Creating Electron app packages",
   "version": "0.14.0",
   "bin": {
